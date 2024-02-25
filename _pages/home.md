@@ -11,7 +11,7 @@ permalink: /
 TESLab is located in KB (Science and Egineering Building in North Campus) and its goal is to develop methods and tools for design, measurement and control of thermal and energy systems. Our research focuses on the following applications:
 
 * Design and production of improved materials for renewable energy harvesting and improved thermal transport relying on nano-technology
-* Multi-scale modeling and characterization of nano-scale thermal transport.
+* Multi-scale modeling and characterization of nano-scale thermal transport
 * Design and control thermal systems
 * Thermal management and testing of opto-electronic packages
 
