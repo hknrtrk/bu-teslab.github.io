@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: Hakan Ertürk
+title: Hakan Erturk
 image: Hakan-Erturk.png
 role: Professor
 permalink: 'team/hakan-erturk'
@@ -16,5 +16,3 @@ education:
 - MS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey (1997)
 - BS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey (1994)
 ---
-
-Prof. Hakan Ertürk is a professor of mechanical engineering and a faculty member at Bogazici University.
