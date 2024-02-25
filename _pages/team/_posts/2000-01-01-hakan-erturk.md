@@ -15,7 +15,7 @@ social:
     research-gate: https://www.researchgate.net/profile/Hakan-Erturk
 education:
  - Education
-    PhD: Department of Mechanical Engineering, the University of Texas at Austin, Austin, TX, USA, 2002
+    PhD, Department of Mechanical Engineering, the University of Texas at Austin, Austin, TX, USA, 2002
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
