@@ -14,10 +14,9 @@ social:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/profile/Hakan-Erturk
 education:
- - Education
-    **PhD:** Department of Mechanical Engineering, the University of Texas at Austin, Austin, TX, USA, 2002
-    **MS:** Department of Mechanical Engineering, Middle East Technical University, Ankara, Turkey, 1997
-    **BS:** Department of Mechanical Engineering, Middle East Technical University, Ankara, Turkey, 1994
+* **PhD:** Department of Mechanical Engineering, the University of Texas at Austin, Austin, TX, USA, 2002
+* **MS:** Department of Mechanical Engineering, Middle East Technical University, Ankara, Turkey, 1997
+* **BS:** Department of Mechanical Engineering, Middle East Technical University, Ankara, Turkey, 1994
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
