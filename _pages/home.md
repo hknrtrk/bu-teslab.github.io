@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome to the Thermal and Energy Systems Laboratory (TESLab)
+## **Welcome to the Thermal and Energy Systems Laboratory (TESLab)**
 
 TESLab is located in KB (Science and Egineering Building in North Campus) and its goal is to develop methods and tools for design, measurement and control of thermal and energy systems. Our research focuses on the following applications:
 
