@@ -6,7 +6,7 @@ sitemap: false
 permalink: /teaching/
 ---
 
-# Research
+# Teaching
 
 * ME 304: Experimental Engineering
 * ME 362: Heat Transfer
