@@ -1,7 +1,7 @@
 ---
 layout: member
 category: student
-title: Burak Can Uğurlu
+title: Burak Can Ugurlu
 image: researcher.png
 role: BS Student
 email: burak.ugurlu1@std.bogazici.edu.tr
