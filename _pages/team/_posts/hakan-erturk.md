@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Hakan Ertürk
 image: researcher.png
-role: Principal Investigator
+role: Professor of Mechanical Engineering
 permalink: 'team/hakan-erturk'
 social:
     twitter: https://twitter.com/
