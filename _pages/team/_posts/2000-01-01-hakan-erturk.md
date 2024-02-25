@@ -3,16 +3,16 @@ layout: member
 category: staff
 title: Hakan Ertürk
 image: researcher.png
-role: Professor of Mechanical Engineering
-permalink: 'team/hakan-erturk'
+role: Professor
+permalink: 'team/researcher-hakanerturk'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
+    google-scholar: https://scholar.google.com/citations?user=0bWMg2kAAAAJ&hl=en&oi=ao
     github: https://github.com/
     website:
     orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    research-gate: https://www.researchgate.net/profile/Hakan-Erturk
 education:
  - Education
 ---
