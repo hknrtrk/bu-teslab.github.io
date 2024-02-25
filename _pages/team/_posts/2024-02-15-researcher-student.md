@@ -1,20 +1,19 @@
 ---
 layout: member
 category: student
-title: Researcher Name
+title: Burak Can Uğurlu
 image: researcher.png
-role: PhD Student
-permalink: 'team/researcher-name'
+role: BS Student
+permalink: 'team/burakcan-ugurlu'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    linkedin: https://www.linkedin.com/in/burakcanugurlu
+    google-scholar:
+    github: https://github.com/bcugurlu
     website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    research-gate:
 education:
- - Education
+ - BS in Chemical Engineering, Bogazici University, Istanbul, Turkey (2025)
+ - Minor in Mechanical Engineering, Bogazici University, Istanbul, Turkey (2025)
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
