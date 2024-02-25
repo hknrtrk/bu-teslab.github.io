@@ -14,7 +14,7 @@ permalink: /team/
 {% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
-    <div class="row mt-2">
+    <div class="row mt-0">
         <div class="col-md-2">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
@@ -42,7 +42,7 @@ permalink: /team/
 {% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
-    <div class="row mt-2">
+    <div class="row mt-0">
         <div class="col-md-2">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
