@@ -4,6 +4,7 @@ category: staff
 title: Hakan Erturk
 image: Hakan-Erturk.png
 role: Professor
+email: hakan.erturk@bogazici.edu.tr
 permalink: 'team/hakan-erturk'
 social:
     linkedin: https://www.linkedin.com/in/hakanerturk
