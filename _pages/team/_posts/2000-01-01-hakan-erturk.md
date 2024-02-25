@@ -6,9 +6,9 @@ image: Hakan-Erturk.png
 role: Professor
 permalink: 'team/hakan-erturk'
 social:
-    linkedin: https://www.linkedin.com/
+    linkedin: https://www.linkedin.com/in/hakanerturk
     google-scholar: https://scholar.google.com/citations?user=0bWMg2kAAAAJ&hl=en&oi=ao
-    github: https://github.com/
+    github:
     website:
     research-gate: https://www.researchgate.net/profile/Hakan-Erturk
 education:
