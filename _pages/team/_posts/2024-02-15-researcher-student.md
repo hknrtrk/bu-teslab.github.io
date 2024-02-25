@@ -4,6 +4,7 @@ category: student
 title: Burak Can Uğurlu
 image: researcher.png
 role: BS Student
+email: burak.ugurlu1@std.bogazici.edu.tr
 permalink: 'team/burakcan-ugurlu'
 social:
     linkedin: https://www.linkedin.com/in/burakcanugurlu
