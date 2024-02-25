@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: default
-excerpt: ""
+excerpt: "Teaching"
 sitemap: false
 permalink: /teaching/
 ---
