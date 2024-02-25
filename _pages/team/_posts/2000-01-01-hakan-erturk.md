@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Hakan Ertürk
-image: researcher.png
+image: Hakan-Erturk.png
 role: Professor
 permalink: 'team/hakan-erturk'
 social:
