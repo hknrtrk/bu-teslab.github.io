@@ -4,7 +4,7 @@ category: staff
 title: Hakan Ertürk
 image: researcher.png
 role: Professor
-permalink: 'team/researcher-hakanerturk'
+permalink: 'team/hakan-erturk'
 social:
     linkedin: https://www.linkedin.com/
     google-scholar: https://scholar.google.com/citations?user=0bWMg2kAAAAJ&hl=en&oi=ao
