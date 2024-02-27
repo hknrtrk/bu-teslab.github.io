@@ -8,7 +8,7 @@ permalink: /
 
 ### **Welcome to the Thermal and Energy Systems Laboratory (TESLab)**
 
-TESLab is located in KB (Science and Engineering Building in North Campus, Bogazici University) and its goal is to develop methods and tools for design, measurement and control of thermal and energy systems. Our research focuses on the following applications:
+TESLab is located in Kare Blok (Science and Engineering Building in North Campus, Bogazici University) and its goal is to develop methods and tools for design, measurement and control of thermal and energy systems. Our research focuses on the following applications:
 
 * Design and production of improved materials for renewable energy harvesting and improved thermal transport relying on nano-technology
 * Multi-scale modeling and characterization of nano-scale thermal transport
