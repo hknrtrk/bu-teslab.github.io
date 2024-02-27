@@ -51,7 +51,7 @@ permalink: /publications/
 
 ## Patents
 
-<em>Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen</em><br /> Microfins for Cooling an Ultramobile Device <br /> <a href="https://drive.google.com/open?id=0B1x_zKlyTDidUGZFMldabzBNbEU">US8482922 (2013)</a>
+Microfins for Cooling an Ultramobile Device <br />  <em>Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen</em><br /> <a href="https://drive.google.com/open?id=0B1x_zKlyTDidUGZFMldabzBNbEU">US8482922 (2013)</a>
 
 ## Full List of publications
 
