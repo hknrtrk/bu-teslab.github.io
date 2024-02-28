@@ -10,7 +10,7 @@ permalink: /publications/
 
 The full list of publications and patents is given below this page, they are also accessible on Prof. Hakan Erturk's <a href="https://scholar.google.com/citations?user=0bWMg2kAAAAJ&hl=en">Google Scholar</a> profile.
 
-# Group highlights
+## Group highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -50,11 +50,11 @@ The full list of publications and patents is given below this page, they are als
 
 <p> &nbsp; </p>
 
-# Patents
+## Patents
 
 Microfins for Cooling an Ultramobile Device <br />  <em>Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen</em><br /> <a href="https://drive.google.com/open?id=0B1x_zKlyTDidUGZFMldabzBNbEU">US8482922 (2013)</a>
 
-# Full list of publications
+## Full list of publications
 
 {% for publi in site.data.publist %}
 
