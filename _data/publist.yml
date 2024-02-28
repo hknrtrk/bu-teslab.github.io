@@ -1,19 +1,18 @@
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+- title: "Different necking models in predicting the measured scattering matrix of soot aggregates"
   image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+  description: Necking in soot is considered for more accurate modeling of soot optical properties. Different necking models evaluated based on polarized light scattering measurements. Implementing necking is not sufficient to reproduce the measured scattering matrix. Predictions by different necking models with comparable aggregate volumes are similar.
+  authors: Halil Ibrahim Yazici, Hakan Erturk, Fengshan Liu
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://doi.org/10.1016/j.jaerosci.2023.106194
+    display: Journal of Aerosol Science 172 (2023): 106194
   highlight: 1
 
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
+- title: "Effect of necking and polydispersity in aggregate and primary particle size on the scattering matrix of soot aggregates"
   image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+  description: Necking and polydispersity in aggregate and monomer size are present in soot. Effects of these structures in soot on the scattering matrix are investigated. Impacts of necking and monomer polydispersity are mainly due to volume variation. Impacts on the phase matrix might be represented by variation in radius of gyration.
+  authors: Halil Ibrahim Yazici, Hakan Erturk, Fengshan Liu
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
+    url: https://doi.org/10.1016/j.jaerosci.2023.106226
+    display: Journal of Aerosol Science 173 (2023): 106226
   highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
