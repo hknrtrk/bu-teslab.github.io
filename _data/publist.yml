@@ -16,10 +16,8 @@
     display: Journal of Aerosol Science, Volume 173, 2023, 106226
   highlight:
 
-- title: "Examination of energy and visual comfort performance of thermo-chromic coatings for cellular offices"
+- title: "Examination of energy and visual comfort performance of thermo-chromic coatings for cellular offices" 
   authors: Cagatay Haratoka, Refet Ali Yalcin, Hakan Erturk
-  image:
-  description:
   link:
     url: https://doi.org/10.1016/j.energy.2022.126517
     display: Energy, Volume 267, 2023, 126517
@@ -27,8 +25,6 @@
 
 - title: "Inverse Methods in Thermal Radiation Analysis and Experiment"
   authors: Hakan Erturk, Kyle Daun, Francis Franca, Shima Hajimirza, John R. Howell
-  image:
-  description:
   link:
     url: https://doi.org/10.1115/1.4056371
     display: Journal of Heat Transfer, Volume 145, 2023, 050801
@@ -36,8 +32,6 @@
 
 - title: "Performance analysis of nearfield tandem thermophotovoltaic systems based on radiative absorption distribution"
   authors: Bowen Li, Bo Zhang, Jinlin Song, Run Hu, Hakan Erturk, Zixue Luo, Qiang Cheng
-  image:
-  description:
   link:
     url: https://doi.org/10.1016/j.icheatmasstransfer.2022.106488
     display: International Communications in Heat and Mass Transfer, Volume 139, 2022, 106488
@@ -45,8 +39,6 @@
 
 - title: "Design of thermochromic glazing windows considering energy consumption and visual comfort for cellular offices"
   authors: Cagatay Haratoka, Refet Ali Yalcin, Hakan Erturk
-  image:
-  description:
   link:
     url: https://doi.org/10.1016/j.solener.2022.06.025
     display: Solar Energy, Volume 241, 2022, 637-649
@@ -54,8 +46,6 @@
 
 - title: "A novel method for hemodynamic analysis of penile erection"
   authors: Canberk Yildirim, Hakan Erturk, Kerem Pekkan, Sinan Deniz, Ege Can Serefoglu
-  image:
-  description:
   link:
     url: https://doi.org/10.1038/s41443-020-00362-y
     display: International Journal of Impotence Research, Volume 34, 2022, 55-63
@@ -63,17 +53,13 @@
 
 - title: "Monte Carlo method solution of the broadband fluorescent radiative transfer equation considering fluorescent cascade"
   authors: Refet Ali Yalcin, Hakan Erturk
-  image:
-  description:
   link:
     url: https://doi.org/10.1364/AO.410325
     display: Applied Optics, Volume 60, 1068-1077
   highlight:
 
- - title: "Convective heat transfer and pressure drop characteristics of graphene-water nanofluids in transitional flow"
+- title: "Convective heat transfer and pressure drop characteristics of graphene-water nanofluids in transitional flow"
   authors: Cayan Demirkir, Hakan Erturk
-  image:
-  description:
   link:
     url: https://doi.org/10.1016/j.icheatmasstransfer.2020.105092
     display: International Communications in Heat and Mass Transfer, Volume 121, 2021, 105092
