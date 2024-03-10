@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-The full list of publications and patents is given below this page, these are also accessible on Prof. Hakan Erturk's <a href="https://scholar.google.com/citations?user=0bWMg2kAAAAJ&hl=en">Google Scholar</a> profile.
+The full list of publications is given below this page, these are also accessible on Prof. Hakan Erturk's <a href="https://scholar.google.com/citations?user=0bWMg2kAAAAJ&hl=en">Google Scholar</a> profile.
 
 ## Group highlights
 
