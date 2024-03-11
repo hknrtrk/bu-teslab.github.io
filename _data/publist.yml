@@ -3,6 +3,8 @@
   link:
     url: https://doi.org/10.1016/j.jaerosci.2023.106226
     display: Journal of Aerosol Science, Volume 173, 2023, 106226
+  description:
+  highlight: 1
 
 - title: Different Necking Models in Predicting the Scattering Matrix of Soot Aggregates
   authors: Yazici HI, Erturk H, Liu F
