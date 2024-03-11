@@ -1,77 +1,125 @@
-- title: "Different necking models in predicting the measured scattering matrix of soot aggregates"
-  image: journalofaerosolscience-172.jpg
-  description: Necking in soot is considered for more accurate modeling of soot optical properties. Different necking models evaluated based on polarized light scattering measurements. Implementing necking is not sufficient to reproduce the measured scattering matrix. Predictions by different necking models with comparable aggregate volumes are similar.
-  authors: Halil Ibrahim Yazici, Hakan Erturk, Fengshan Liu
-  link:
-    url: https://doi.org/10.1016/j.jaerosci.2023.106194
-    display: Journal of Aerosol Science, Volume 172, 2023, 106194
-  highlight: 1
-
-- title: "Effect of necking and polydispersity in aggregate and primary particle size on the scattering matrix of soot aggregates"
-  image: imageaward_edited.png
-  description: Necking and polydispersity in aggregate and monomer size are present in soot. Effects of these structures in soot on the scattering matrix are investigated. Impacts of necking and monomer polydispersity are mainly due to volume variation. Impacts on the phase matrix might be represented by variation in radius of gyration.
-  authors: Halil Ibrahim Yazici, Hakan Erturk, Fengshan Liu
+- title: Effect of Necking and Polydispersity in Aggregate and Primary Particle Size on the Scattering Matrix of Soot Aggregates
+  authors: Yazici HI, Erturk H, Liu F
   link:
     url: https://doi.org/10.1016/j.jaerosci.2023.106226
     display: Journal of Aerosol Science, Volume 173, 2023, 106226
-  highlight: 1
 
-- title: "Examination of energy and visual comfort performance of thermo-chromic coatings for cellular offices" 
-  authors: Cagatay Haratoka, Refet Ali Yalcin, Hakan Erturk
+- title: Different Necking Models in Predicting the Scattering Matrix of Soot Aggregates
+  authors: Yazici HI, Erturk H, Liu F
+  link:
+    url: https://dx.doi.org/10.2139/ssrn.4444033
+    display: Journal of Aerosol Science, Volume 172, 2023, 106194 (featured article of the issue)
+
+- title: Examination of Energy and Visual Comfort Performance of Thermo-chromic Coatings for Cellular Offices
+  authors: Haratoka C, Yalcin RA, Erturk H
   link:
     url: https://doi.org/10.1016/j.energy.2022.126517
     display: Energy, Volume 267, 2023, 126517
 
-- title: "Inverse Methods in Thermal Radiation Analysis and Experiment"
-  authors: Hakan Erturk, Kyle Daun, Francis Franca, Shima Hajimirza, John R. Howell
+- title: Inverse Methods in Thermal Radiation Analysis and Experiment
+  authors: Ertürk H, Daun KJ, Franca FHR, Hajimirza S, Howell JR
   link:
     url: https://doi.org/10.1115/1.4056371
-    display: Journal of Heat Transfer, Volume 145, 2023, 050801
+    display: ASME Journal of Heat and Mass Transfer, Volume 145, 2023, 050801
 
-- title: "Performance analysis of near-field tandem thermophotovoltaic systems based on radiative absorption distribution"
-  authors: Bowen Li, Bo Zhang, Jinlin Song, Run Hu, Hakan Erturk, Zixue Luo, Qiang Cheng
+- title: Performance analysis of near-field tandem thermophotovoltaic systems based on radiative absorption distribution
+  authors: Li B, Zhang B, Song J, Hu R, Ertürk H, Luo Z, Cheng Q
   link:
     url: https://doi.org/10.1016/j.icheatmasstransfer.2022.106488
     display: International Communications in Heat and Mass Transfer, Volume 139, 2022, 106488
 
-- title: "Design of thermo-chromic glazing windows considering energy consumption and visual comfort for cellular offices"
-  authors: Cagatay Haratoka, Refet Ali Yalcin, Hakan Erturk
+- title: Design of Thermo-chromic Glazing Windows Considering Energy Consumption and Visual Comfort for Cellular Offices
+  authors: Haratoka C, Yalcin RA, Erturk H
   link:
     url: https://doi.org/10.1016/j.solener.2022.06.025
-    display: Solar Energy, Volume 241, 2022, 637-649
+    display: Solar Energy, Volume 241, 2022, pp. 637-649
 
-- title: "A novel method for hemodynamic analysis of penile erection"
-  authors: Canberk Yildirim, Hakan Erturk, Kerem Pekkan, Sinan Deniz, Ege Can Serefoglu
+- title: A novel method for hemodynamic analysis of penile erection
+  authors: Yildirim C, Erturk H, Pekkan K, Deniz S, Serefoglu EC
   link:
     url: https://doi.org/10.1038/s41443-020-00362-y
-    display: International Journal of Impotence Research, Volume 34, 2022, 55-63
+    display: International Journal of Impotence Research, Volume 34, No. 1, 2022, pp. 55-63
 
-- title: "Monte Carlo method solution of the broadband fluorescent radiative transfer equation considering fluorescent cascade"
-  authors: Refet Ali Yalcin, Hakan Erturk
+- title: Monte Carlo Method Solution of Broadband Fluorescent Radiative Transfer Equation Considering Fluorescent Cascade
+  authors: Yalcin RA, Erturk H
   link:
     url: https://doi.org/10.1364/AO.410325
-    display: Applied Optics, Volume 60, 1068-1077
+    display: Applied Optics, Volume 60, No. 4, 2021, pp. 1068-1077
 
-- title: "Convective heat transfer and pressure drop characteristics of graphene-water nanofluids in transitional flow"
-  authors: Cayan Demirkir, Hakan Erturk
+- title: Convective Heat Transfer and Pressure Drop Characteristics of Graphene-Water Nanofluids in Transitional Flow
+  authors: Demirkir C, Erturk H
   link:
-    url: https://doi.org/10.1016/j.icheatmasstransfer.2020.105092
+    url: https://doi.org/10.48550/arXiv.2009.10462
     display: International Communications in Heat and Mass Transfer, Volume 121, 2021, 105092
 
-- title: "Improving crop production in solar illuminated vertical farms using fluorescence coatings"
-  authors: Refet Ali Yalcin, Hakan Erturk
+- title: Improving Crop Production in Solar Illuminated Vertical Farms using Fluorescence Coatings
+  authors: Yalcin RA, Erturk H
   link:
     url: https://doi.org/10.1016/j.biosystemseng.2020.02.007
-    display: Biosystems Engineering, Volume 193, 2020, 25-36
+    display: Biosystems Engineering, Volume 193, 2021, pp. 25-36
 
-- title: "Rheological and thermal characterization of graphene-water nanofluids: Hysteresis phenomenon"
-  authors: Cayan Demirkir, Hakan Erturk
+- title: Continuous and optimally complete description of chemical environments using spherical Bessel descriptors
+  authors: Kocer E, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.48550/arXiv.1907.02384
+    display: AIP Advances, Volume 10, 2020, 015021
+
+- title: Rheological and Thermal Characterization of Graphene-Water Nanofluids: Hysteresis Phenomenon
+  authors: Demirkir C, Erturk H
   link:
     url: https://doi.org/10.1016/j.ijheatmasstransfer.2019.119113
     display: International Journal of Heat and Mass Transfer, Volume 149, 2020, 119113
 
-- title: "Continuous and optimally complete description of chemical environments using Spherical Bessel descriptors"
-  authors: Emir Kocer, Jeremy K. Mason, Hakan Erturk
+- title: Absorption and Plasmon Resonance of Bi-Metallic Core-Shell Nanoparticles on a Dielectric Substrate Near an External Tip
+  authors: Avsar D, Erturk H, Menguc MP
   link:
-    url: https://doi.org/10.1063/1.5111045
-    display: AIP Advances, Volume 10, 2020, 015021
+    url: https://doi.org/10.1016/j.jqsrt.2019.106684
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 241, 2020, 106684
+
+- title: Green-Kubo Assessments of Thermal Transport in Nano-colloids Based on Interfacial Effects
+  authors: Akiner T, Kocer E, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.mtcomm.2019.05.009
+    display: Materials Today Communications, Volume 20, 2019, 100533
+
+- title: Gaussian Process and Design of Experiments for Surrogate Modeling of Optical Properties of Fractal Aggregates
+  authors: Ericok OB, Ozbek AK, Cemgil AT, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.jqsrt.2019.106643
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 239, 2019, 106643
+
+- title: Improving Photosynthetic Efficiency using Greenhouse Coatings with Scattering and Fluorescent Pigments
+  authors: Yalcin RA, Erturk H
+  link:
+    url: https://doi.org/10.1088/2053-1591/ab28b8
+    display: Materials Research Express, Volume 6, 2019, 085551
+
+- title: A Novel Approach to Describe Chemical Environments in High Dimensional Neural Network Potentials
+  authors: Kocer E, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.1063/1.5086167
+    display: Journal of Chemical Physics, Volume 150, 2019, 154102
+
+- title: Plasmonic Responses of Metallic/Dielectric Core-Shell Nanoparticles on a Dielectric Substrate
+  authors: Avsar D, Erturk H, Menguc MP
+  link:
+    url: https://doi.org/10.1088/2053-1591/ab07fd
+    display: Materials Research Express, Volume 6, 2019, 065006
+
+- title: Enhancement of CPU Liquid Cooling Performance using hBN Nanofluids
+  authors: Atik O, Erturk H
+  link:
+    url: https://doi.org/10.1115/1.4042022
+    display: ASME Journal of Thermal Science and Engineering Applications, Volume 11, 2019, 034501
+
+- title: Plasmon coupling between complex gold nanostructures and a dielectric substrate
+  authors: Rostampour Fathi Z, Menguc P, Erturk H
+  link:
+    url: https://doi.org/10.1364/AO.57.008954
+    display: Applied Optics, Volume 57, Issue 30, 2018, pp. 8954-8963
+
+- title: Optical characterization limits of nanoparticle aggregates at different wavelengths using Approximate Bayesian Computation
+  authors: Ericok OB, and Erturk H
+  link:
+    url: https://doi.org/10.1016/j.jqsrt.2018.04.006
+    display: Journal of Quantitative Spectroscopy and Radiative
