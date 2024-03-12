@@ -70,7 +70,7 @@ The full list of publications is given below this page, these are also accessibl
 10.	Ertürk, H., Sauciuc I., 2007, “Cooling Integrated Circuits Using a Cold Plate with Two Phase Thin Film Evaporation”, US Patent No. 7265979-B2.
 11.	Ertürk H., Sauciuc I., Unrein, E. J., 2005, “An Apparatus and Method for Cooling Integrated Circuit Devices”, US Patent No. 6917522-B1.
 
-## Full list of publications
+## Journal Articles
 
 {% for publi in site.data.publist %}
 
