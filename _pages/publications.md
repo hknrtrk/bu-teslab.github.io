@@ -25,8 +25,10 @@ The full list of journal articles is given below this page, these are also acces
 <div class="col-sm-6 clearfix">
  <div class="well">
   <b> <pubtit>{{ publi.title }}</pubtit> </b>
-  <br><img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" />
-  <br><p>{{ publi.description }}</p>
+  <br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" />
+  <br>
+  <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
