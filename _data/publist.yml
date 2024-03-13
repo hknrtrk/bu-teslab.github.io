@@ -3,14 +3,16 @@
   link:
     url: https://doi.org/10.1016/j.jaerosci.2023.106226
     display: Journal of Aerosol Science, Volume 173, 2023, 106226
-  description:
+  description: Necking and polydispersity in aggregate and monomer size are present in soot. Effects of these structures in soot on the scattering matrix are investigated. Impacts of necking and monomer polydispersity are mainly due to volume variation. Impacts on the phase matrix might be represented by variation in radius of gyration.
   highlight: 1
 
 - title: "Different Necking Models in Predicting the Scattering Matrix of Soot Aggregates"
   authors: Yazici HI, Erturk H, Liu F
   link:
-    url: https://dx.doi.org/10.2139/ssrn.4444033
+    url: https://doi.org/10.1016/j.jaerosci.2023.106194
     display: Journal of Aerosol Science, Volume 172, 2023, 106194 (featured article of the issue)
+  description: Necking in soot is considered for more accurate modeling of soot optical properties. Different necking models evaluated based on polarized light scattering measurements. Implementing necking is not sufficient to reproduce the measured scattering matrix. Predictions by different necking models with comparable aggregate volumes are similar.
+  highlight: 1
 
 - title: "Examination of Energy and Visual Comfort Performance of Thermo-chromic Coatings for Cellular Offices"
   authors: Haratoka C, Yalcin RA, Erturk H
