@@ -25,7 +25,7 @@ The full list of journal articles is given below this page, these are also acces
 <div class="col-sm-6 clearfix">
  <div class="well">
   <b> <pubtit>{{ publi.title }}</pubtit> </b>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
