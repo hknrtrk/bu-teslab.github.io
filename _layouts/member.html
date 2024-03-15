@@ -68,6 +68,10 @@ layout: default
     <!-- Research Interests -->
     <div class="row">
         <h3>Research Interests</h3>
-        {{ content }}
+        <ul class="list-unstyled">
+            {% for interests in page.interests %}
+                <li>{{interests}}</li>
+            {% endfor %}
+        </ul>
     </div>
 </div>
