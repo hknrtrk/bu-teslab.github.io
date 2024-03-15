@@ -18,4 +18,9 @@ education:
 - PhD in Mechanical Engineering, The University of Texas at Austin, Austin, TX, USA (2002)
 - MS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey (1997)
 - BS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey (1994)
+interests:
+- Design and control of thermal and energy systems
+- Nanotechnology in energy applications
+- Thermal management of opto/electronic systems
+- Inverse problems of thermal design and sensing
 ---
