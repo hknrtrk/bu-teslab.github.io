@@ -12,6 +12,7 @@ layout: default
 
         <!-- Name & Role -->
         <h1>{{ page.title }}</h1>
+        <h3>{{ page.role }}</h3><br>
     </div>
 
     <div class="row text-center">
@@ -19,31 +20,31 @@ layout: default
         <ul class="list-inline list-unstyled">
             <!-- Linkedin -->
             {% if page.social.linkedin %}
-                <li><a target="blank" href="{{page.social.linkedin}}"><i class="fab fa-linkedin fa-1.5x"></i></a></li>
+                <li><a target="blank" href="{{page.social.linkedin}}"><i class="fab fa-linkedin fa-2x"></i></a></li>
             {% endif %}
             <!-- Github -->
             {% if page.social.github %}
-                <li><a target="blank" href="{{page.social.github}}"><i class="fab fa-github fa-1.5xx"></i></a></li>
+                <li><a target="blank" href="{{page.social.github}}"><i class="fab fa-github fa-2x"></i></a></li>
             {% endif %}
             <!-- ResearcherID -->
             {% if page.social.researcherid %}
-                <li><a target="blank" href="{{page.social.researcherid}}"><i class="ai ai-clarivate ai-1.5x"></i></a></li>
+                <li><a target="blank" href="{{page.social.researcherid}}"><i class="ai ai-clarivate ai-2x"></i></a></li>
             {% endif %}
             <!-- Google Scholar -->
             {% if page.social.google-scholar %}
-                <li><a target="blank" href="{{page.social.google-scholar}}"><i class="ai ai-google-scholar ai-1.5x"></i></a></li>
+                <li><a target="blank" href="{{page.social.google-scholar}}"><i class="ai ai-google-scholar ai-2x"></i></a></li>
             {% endif %}
             <!-- Research Gate -->
             {% if page.social.research-gate %}
-                <li><a target="blank" href="{{page.social.research-gate}}"><i class="ai ai-researchgate ai-1.5x"></i></a></li>
+                <li><a target="blank" href="{{page.social.research-gate}}"><i class="ai ai-researchgate ai-2x"></i></a></li>
             {% endif %}
             <!-- Orcid -->
             {% if page.social.orcid %}
-                <li><a target="blank" href="{{page.social.orcid}}"><i class="ai ai-orcid ai-1.5x"></i></a></li>
+                <li><a target="blank" href="{{page.social.orcid}}"><i class="ai ai-orcid ai-2x"></i></a></li>
             {% endif %}
             <!-- Scopus -->
             {% if page.social.scopus %}
-                <li><a target="blank" href="{{page.social.scopus}}"><i class="ai ai-scopus ai-1.5x"></i></a></li>
+                <li><a target="blank" href="{{page.social.scopus}}"><i class="ai ai-scopus ai-2x"></i></a></li>
             {% endif %}
         </ul>
     </div>
