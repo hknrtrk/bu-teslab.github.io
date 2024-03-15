@@ -32,17 +32,25 @@ layout: default
             {% if page.social.github %}
                 <li><a target="blank" href="{{page.social.github}}"><i class="fab fa-github"></i></a></li>
             {% endif %}
-            <!-- Personal Website -->
-            {% if page.social.website %}
-                <li><a target="blank" href="{{page.social.website}}"><i class="fas fa-globe"></i></a></li>
+            <!-- ResearcherID -->
+            {% if page.social.researcherid %}
+                <li><a target="blank" href="{{page.social.web-of-science}}"><i class="fas fa-researcherid"></i></a></li>
             {% endif %}
             <!-- Google Scholar -->
             {% if page.social.google-scholar %}
-                <li><a target="blank" href="{{page.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+                <li><a target="blank" href="{{page.social.google-scholar}}"><i class="fab fa-google-scholar"></i></a></li>
             {% endif %}
             <!-- Research Gate -->
             {% if page.social.research-gate %}
                 <li><a target="blank" href="{{page.social.research-gate}}"><i class="fab fa-researchgate"></i></a></li>
+            {% endif %}
+            <!-- Orcid -->
+            {% if page.social.orcid %}
+                <li><a target="blank" href="{{page.social.orcid}}"><i class="fab fa-orcid"></i></a></li>
+            {% endif %}
+            <!-- Scopus -->
+            {% if page.social.scopus %}
+                <li><a target="blank" href="{{page.social.scopus}}"><i class="fab fa-scopus"></i></a></li>
             {% endif %}
         </ul>
     </div>
