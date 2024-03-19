@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: Hakan Erturk
+title: Hakan Ertürk
 image: Hakan-Erturk.png
 role: Professor
 email: hakan.erturk@bogazici.edu.tr
