@@ -13,6 +13,6 @@ social:
     website:
     research-gate:
 education:
- - BS in Chemical Engineering, Bogazici University, Istanbul, Turkey (2025)
- - Minor in Mechanical Engineering, Bogazici University, Istanbul, Turkey (2025)
+ - BS in Chemical Engineering, Bogazici University, Istanbul, Turkey (ongoing)
+ - Minor in Mechanical Engineering, Bogazici University, Istanbul, Turkey (ongoing)
 ---
