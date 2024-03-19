@@ -17,7 +17,6 @@ social:
 education:
 - PhD in Mechanical Engineering, Bogazici University, Istanbul, Turkey (ongoing)
 - MS in Mechanical Engineering, Bogazici University, Istanbul, Turkey (2023)
-- MS Thesis: Approximate lumped parameter model for bioheat equation
 - BS in Mechanical Engineering, Bogazici University, Istanbul, Turkey (2021)
 interests:
 ---
