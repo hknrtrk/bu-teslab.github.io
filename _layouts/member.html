@@ -60,12 +60,14 @@ layout: default
     </div>
 
     <!-- Research Interests -->
-    <div class="row">
-        <h3>Research Interests</h3>
-        <ul class="list-unstyled">
-            {% for interests in page.interests %}
-                <li>{{interests}}</li>
-            {% endfor %}
-        </ul>
-    </div>
+    {% if page.interests %}
+        <div class="row">
+            <h3>Research Interests</h3>
+            <ul class="list-unstyled">
+                {% for interests in page.interests %}
+                    <li>{{interests}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
 </div>
