@@ -1,3 +1,12 @@
+- title: "Evaluation of Methods and Metrics for Identifying Scattering Regime of Dielectric Particulate Medium"
+  authors: Yazici HI, Erturk H, Liu F
+  image: icheatmasstransfer_154_2024.jpeg
+  link:
+    url: https://doi.org/10.1016/j.icheatmasstransfer.2024.107386
+    display: International Communications in Heat and Mass Transfer, Volume 154, 2024, 107386
+  description: SSF estimates scattering coefficient and asymmetry parameter for dielectric particulate medium. Transport scattering coefficient is the proper metric for representing scattering regime. Solution of Maxwell’s equations is possible for finite sized particulate media. Coherent scattering leads to overestimation of scattering coefficient. Calculated asymmetry parameter depends on considered ensemble size.
+  highlight: 1
+
 - title: "Effect of Necking and Polydispersity in Aggregate and Primary Particle Size on the Scattering Matrix of Soot Aggregates"
   authors: Yazici HI, Erturk H, Liu F
   link:
@@ -19,8 +28,6 @@
   link:
     url: https://doi.org/10.1016/j.energy.2022.126517
     display: Energy, Volume 267, 2023, 126517
-  description: Thermo-chromic coatings are promising passive systems for providing energy saving performance. They change their optical properties within visible and solar wavelengths according to their temperature, as these coatings contain materials such as vanadium dioxide that change phase at their transition temperature. In this study, energy savings performance of thin pigmented thermo-chromic coating attached on an ordinary window glass is investigated by modeling a simple office room for three different transition temperatures in three cities that are all in different climate regions of Turkey; Izmir, Istanbul and Ankara. Optical properties of thin thermo-chromic coatings attached on an ordinary glass are determined by transfer matrix method considering particle concentration and thickness of the coating. Optimal coating for all climatic conditions are determined by optimization for high energy savings performance while considering visual comfort. Comparison between double glazings with thin thermo-chromic coatings and ordinary double glazing is presented for energy improvement and visual comfort by useful daylight illuminance (UDI) approach. Consequently, up to 26% and 9% energy saving potential are observed in relatively hot and cold climates, respectively.
-  highlight: 1
 
 - title: "Inverse Methods in Thermal Radiation Analysis and Experiment"
   authors: Erturk H, Daun KJ, Franca FHR, Hajimirza S, Howell JR
