@@ -17,7 +17,7 @@ social:
 education:
 - PhD in Mechanical Engineering, Bogazici University, Istanbul, Turkey (ongoing)
 - MS in Mechanical Engineering, Bogazici University, Istanbul, Turkey (2022)
-- *"Thesis: Plasmonic absorption enhancement via coupling effects between dielectric-plasmonic particles"*
+- "MS Thesis: Plasmonic absorption enhancement via coupling effects between dielectric-plasmonic particles"
 - BS in Mechanical Engineering, Bogazici University, Istanbul, Turkey (2019)
 interests:
 - Near field radiative heat transfer
