@@ -66,4 +66,4 @@ interests:
 ---
 ```
 
-Category should be labeled as "student" for all members, excluding the principal investigator. If an social media link is absent, then the relevant line can be deleted or the value after the key can be left empty, as provided in the example above for GitHub section. If the "interests" part is completely deleted, the program will understand this situation via a conditional statement, and research interests will not be visible to the end-user. All personal photos are stored under [images/team](images/team) folder.
+Category should be labeled as "student" for all members, excluding the principal investigator. If an social media link is absent, then the relevant line can be deleted or the value after the key can be left empty, as provided in the example above for GitHub section. When the "interests" part is completely deleted, the program will understand this situation via a conditional statement, and research interests will not be visible to the end-user. All personal photos are stored under [images/team](images/team) folder.
