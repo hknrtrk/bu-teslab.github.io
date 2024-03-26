@@ -70,4 +70,15 @@ layout: default
             </ul>
         </div>
     {% endif %}
+    
+    <!-- Notes -->
+    {% if page.notes %}
+        <div class="row">
+            <ul class="list-unstyled">
+                {% for interests in page.notes %}
+                    <li>{{notes}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
 </div>
