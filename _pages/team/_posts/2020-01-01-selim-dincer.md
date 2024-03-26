@@ -26,3 +26,4 @@ interests:
 - Spectral modeling of participating gases
 notes:
 - "My current project is about the development of a Monte Carlo ray-tracing solver with a machine learning- based participating gas spectral model to simulate the radiative heat transfer in three-dimensional enclosures represented by an unstructured grid. Several machine learning methods, such as Random Forest (RF), Extreme Gradient Boosting (XGBoost), Artificial Neural Network (ANN), and Light Gradient-Boosting (LightGBM), are utilized to predict the spectral radiative properties of participating gases."
+---
