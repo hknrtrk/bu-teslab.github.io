@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Selim Dinçer
-image: Selim-Dincer.jpg
+image: Selim-Dincer.png
 role: PhD Student
 email: selimdincerr@gmail.com
 permalink: 'team/selim-dincer'
