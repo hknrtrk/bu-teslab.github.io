@@ -4,7 +4,7 @@
   link:
     url: https://doi.org/10.1016/j.icheatmasstransfer.2024.107387
     display: International Communications in Heat and Mass Transfer, Volume 154, 2024, 107387
-  description: New scattering regime map showing transition between independent/dependent scattering. Scattering coefficient is not the correct metric to draw demarcation line of the map. • Transport scattering coefficient used for establishing demarcation line. The vertical demarcation line at low size parameters is proven numerically. Refractive index affects the location of demarcation line.
+  description: New scattering regime map showing transition between independent/dependent scattering. Scattering coefficient is not the correct metric to draw demarcation line of the map. Transport scattering coefficient used for establishing demarcation line. The vertical demarcation line at low size parameters is proven numerically. Refractive index affects the location of demarcation line.
   highlight: 1
 
 - title: "Evaluation of Methods and Metrics for Identifying Scattering Regime of Dielectric Particulate Medium"
