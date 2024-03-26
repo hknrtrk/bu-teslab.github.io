@@ -22,5 +22,6 @@ interests:
 - Near field radiative heat transfer
 - Nanoplasmonics
 - Computational radiative simulations
+notes:
+- Currently, I am expanding the applicability of the thermal discrete dipole approximation method, a stochastic Maxwell equations solver specializing in particles with irregular shapes, to include the interactions between finite-sized particles and surfaces. 
 ---
-Currently, I am expanding the applicability of the thermal discrete dipole approximation method, a stochastic Maxwell equations solver specializing in particles with irregular shapes, to include the interactions between finite-sized particles and surfaces. 
