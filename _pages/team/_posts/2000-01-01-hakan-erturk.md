@@ -4,7 +4,7 @@ category: staff
 title: Hakan Ertürk
 image: Hakan-Erturk.png
 role: Professor
-email: hakan.erturk@bogazici.edu.tr
+email: hakan.erturk [at] bogazici.edu.tr
 permalink: 'team/hakan-erturk'
 social:
     linkedin: https://www.linkedin.com/in/hakanerturk
@@ -15,9 +15,9 @@ social:
     research-gate: https://www.researchgate.net/profile/Hakan-Erturk
     github:
 education:
-- PhD in Mechanical Engineering, The University of Texas at Austin, Austin, TX, USA (2002)
-- MS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey (1997)
-- BS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey (1994)
+- PhD in Mechanical Engineering, The University of Texas at Austin, Austin, TX, USA
+- MS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey 
+- BS in Mechanical Engineering, Middle East Technical University, Ankara, Turkey
 interests:
 - Design and control of thermal and energy systems
 - Nanotechnology in energy applications
